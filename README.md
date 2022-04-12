@@ -1,6 +1,6 @@
 # Welcome to PDF-double-side!
 
-Hi! I'm 15. I have a old printer so I can't print double-sided outs. The goal of this project is for anyone with an old printer to be able to double-sided printing.
+Hi! I'm 15. I have an old printer so I can't print double-sided outs. The goal of this project is for anyone with an old printer to be able to double-sided printing.
 
 
 # How
